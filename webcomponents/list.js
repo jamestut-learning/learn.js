@@ -6,7 +6,7 @@ itemTemplate.innerHTML = /*html*/`
     </li>
 `;
 
-export class MyList extends HTMLElement {
+class MyList extends HTMLElement {
     constructor() {
         super();
         const shadowRoot = this.attachShadow({mode: 'closed'});

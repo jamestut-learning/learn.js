@@ -1,6 +1,6 @@
-import { HelloWorld } from "./helloworld.js";
-import { MyList } from "./list.js";
-import { MyInput } from "./myinput.js";
+import "./helloworld.js";
+import "./list.js";
+import "./myinput.js";
 
 window.addEventListener("load", () => {
     /* Hello world demo */

@@ -1,4 +1,4 @@
-export class HelloWorld extends HTMLElement {
+class HelloWorld extends HTMLElement {
     constructor() {
         super();
         const shadow = this.attachShadow({mode: 'closed'});

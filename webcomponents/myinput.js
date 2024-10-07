@@ -1,4 +1,4 @@
-export class MyInput extends HTMLElement {
+class MyInput extends HTMLElement {
     constructor() {
         super();
 
