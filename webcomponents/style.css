@@ -1,0 +1,7 @@
+hello-world {
+    color: blue;
+}
+
+hello-world .name {
+    font-weight: bold;
+}
