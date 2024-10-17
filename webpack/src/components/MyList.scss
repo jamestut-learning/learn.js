@@ -1,0 +1,8 @@
+
+@use "../common";
+
+ul {
+    /* This is a comment */
+    user-select: none;
+    color: common.$mycolor;
+}
